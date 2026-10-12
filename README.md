@@ -26,7 +26,7 @@ I enjoy playing and watching cricket, and I like solving complex production issu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna1369/)
 
-<h2 align="center">💻 Tech Stack</h2>
+💻 Tech Stack
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
