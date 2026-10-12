@@ -1,93 +1,136 @@
-<div align="center">
+ <div align="center">
 
 ![Murali Krishna — DevOps & Site Reliability Engineer](./profile-banner.png)
 
-<h1 align="center">💫 About Me</h1>
+# 💫 About Me
 
-🔭 **I’m currently working on**  
-Site Reliability Engineering (SRE), focusing on production reliability, observability, incident management, and performance monitoring using AWS, Kubernetes, New Relic, Datadog, and Terraform.
+👋 Hi, I'm **Murali Krishna**, a **DevOps & Site Reliability Engineer (SRE)** passionate about cloud infrastructure, automation, observability, and production reliability.
 
-👯 **I’m looking to collaborate on**  
-SRE initiatives, reliability automation, Infrastructure as Code, CI/CD improvements, and cloud-native projects.
+🔭 **Currently Working On**
 
-🤝 **I’m looking for help with**  
-Advanced SRE practices, distributed systems reliability, chaos engineering, and improving service availability.
+Site Reliability Engineering, production monitoring, incident management, root cause analysis, performance optimization, and reliability automation using AWS, Kubernetes, Terraform, New Relic, and Datadog.
 
-🌱 **I’m currently learning**  
-Generative AI (GenAI), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP), and AIOps for intelligent incident management and SRE automation.
+👯 **Looking to Collaborate On**
 
-💬 **Ask me about**  
-SLIs, SLOs, SLAs, incident response, root cause analysis (RCA), MTTR reduction, alerting, APM, infrastructure monitoring, Terraform, AWS, and Kubernetes.
+Cloud-native projects, Infrastructure as Code (IaC), CI/CD automation, Kubernetes platforms, observability solutions, and SRE initiatives.
 
-⚡ **Fun fact**  
-I enjoy playing and watching cricket, and I like solving complex production issues and improving system reliability.
+🤝 **Looking for Help With**
 
-<h2 align="center">🌐 Socials</h2>
+Advanced SRE practices, distributed systems, chaos engineering, site reliability automation, and improving service availability.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna1369/)
+🌱 **Currently Learning**
 
-💻 Tech Stack
+Generative AI (GenAI), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP), and AIOps for intelligent incident management and operational automation.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-%23008C99.svg?style=for-the-badge&logo=newrelic&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+💬 **Ask Me About**
 
-<h2 align="center">⚔️ Tech Arsenal</h2>
+AWS, Kubernetes, Terraform, CI/CD, SLIs, SLOs, SLAs, incident response, root cause analysis (RCA), MTTR reduction, monitoring, alerting, APM, and production troubleshooting.
 
-<h3 align="center">☁️ Cloud & Infrastructure</h3>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+⚡ **Fun Fact**
 
-<h3 align="center">🐳 Containers & Orchestration</h3>
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-<h3 align="center">🔄 CI/CD & DevOps</h3>
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-<h3 align="center">📊 Monitoring & Observability</h3>
-![New Relic](https://img.shields.io/badge/New%20Relic-%23008C99.svg?style=for-the-badge&logo=newrelic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-
-<h3 align="center">💻 Languages & Tools</h3>
-![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-![](https://github-readme-stats.shion.dev/api?username=krishna1369&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=krishna1369&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishna1369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<h3 align="center">✍️ Random Dev Quote</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy playing and watching cricket, solving complex production issues, and finding ways to make systems more reliable.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=krishna1369&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Connect With Me
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/krishna1369/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishna1369)
+
+---
+
+## ⚔️ Tech Arsenal
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### 🐳 Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+### 🔄 CI/CD & DevOps Automation
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+
+### 📊 Monitoring, Observability & APM
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge\&logo=datadog\&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge\&logo=newrelic\&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch\&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+
+### 🛡️ Site Reliability Engineering
+
+![SRE](https://img.shields.io/badge/Site_Reliability_Engineering-2E8B57?style=for-the-badge)
+![Incident Management](https://img.shields.io/badge/Incident_Management-C0392B?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-34495E?style=for-the-badge)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-7D3C98?style=for-the-badge)
+
+### 💻 Programming, Scripting & Databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🤖 Generative AI & Intelligent Automation
+
+![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-0A7EA4?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-16A085?style=for-the-badge)
+![AIOps](https://img.shields.io/badge/AIOps-E67E22?style=for-the-badge)
+
+---
+
+## 🎯 Core Areas of Interest
+
+| Domain                  | Focus Areas                                            |
+| ----------------------- | ------------------------------------------------------ |
+| Cloud Engineering       | AWS, cloud infrastructure, scalability, availability   |
+| DevOps                  | CI/CD, deployment automation, Infrastructure as Code   |
+| Kubernetes              | Container orchestration, workload reliability, scaling |
+| SRE                     | SLIs, SLOs, SLAs, incident response, RCA, MTTR         |
+| Observability           | Metrics, logs, traces, APM, dashboards, alerting       |
+| Reliability Engineering | High availability, disaster recovery, fault isolation  |
+| AI & Automation         | GenAI, LLMs, RAG, AI Agents, AIOps                     |
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=krishna1369&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=krishna1369&theme=dark&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=krishna1369&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishna1369&style=for-the-badge&color=blue" alt="Profile Visitors" />
+</p>
+
+<p align="center">
+  <i>Building reliable systems. Automating everything possible. Learning every day.</i>
+</p>
 
 </div>
