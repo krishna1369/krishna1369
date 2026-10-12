@@ -84,9 +84,9 @@ Python · Bash · MySQL · Linux
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishna1369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </h5>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+<h5 align="center">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) </h5>
 
 ---
 
