@@ -73,6 +73,20 @@ Python · Bash · MySQL · Linux
 | Cloud Native        | AWS, Docker, Kubernetes                     |
 | Continuous Learning | GenAI, AI Agents, RAG, AIOps                |
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+![](https://github-readme-stats.shion.dev/api?username=krishna1369&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=krishna1369&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishna1369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## 🤝 Collaboration
 
 I'm interested in collaborating on DevOps automation, SRE initiatives, cloud-native infrastructure, Kubernetes, observability, and reliability engineering projects.
